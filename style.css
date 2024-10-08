@@ -1,4 +1,4 @@
-* {
+*"" {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -71,5 +71,5 @@ main {
 .terceira img {
     width: 13rem;
     height: auto;
-    margin: 0.5rem;
+    margin: 0.7rem;
 }
